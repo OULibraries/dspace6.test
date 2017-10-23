@@ -1,0 +1,6 @@
+---
+# Play all but ignored hosts
+- hosts: all:!ignore
+  become: true
+  roles:
+    - OULibraries.dspace6

@@ -1,0 +1,35 @@
+2017-10-23 14:53:27,903 p=26173 u=ccone |  - OULibraries.apache2 (v2016-10-17.0) is already installed, skipping.
+2017-10-23 14:53:27,905 p=26173 u=ccone |  - OULibraries.autofs (v2017-05-09.0) is already installed, skipping.
+2017-10-23 14:53:27,905 p=26173 u=ccone |  - OULibraries.cas (master) is already installed, skipping.
+2017-10-23 14:53:27,906 p=26173 u=ccone |  - OULibraries.centos7 (v2017-06-06.0) is already installed, skipping.
+2017-10-23 14:53:27,907 p=26173 u=ccone |  - OULibraries.celery-worker is already installed, skipping.
+2017-10-23 14:53:27,907 p=26173 u=ccone |  - OULibraries.d7 (v2017-04-28.0) is already installed, skipping.
+2017-10-23 14:53:27,908 p=26173 u=ccone |  - OULibraries.d7-islandora (master) is already installed, skipping.
+2017-10-23 14:53:27,909 p=26173 u=ccone |  - OULibraries.docker-host (v2016-12-21.0) is already installed, skipping.
+2017-10-23 14:53:27,909 p=26173 u=ccone |  - OULibraries.ec2-cloudwatch-logs (master) is already installed, skipping.
+2017-10-23 14:53:27,910 p=26173 u=ccone |  - OULibraries.ec2-init (v2017-05-31.0) is already installed, skipping.
+2017-10-23 14:53:27,911 p=26173 u=ccone |  - OULibraries.fcrepo3 (master) is already installed, skipping.
+2017-10-23 14:53:27,912 p=26173 u=ccone |  - OULibraries.gitlab (master) is already installed, skipping.
+2017-10-23 14:53:27,912 p=26173 u=ccone |  - OULibraries.gitolite3 (master) is already installed, skipping.
+2017-10-23 14:53:27,913 p=26173 u=ccone |  - OULibraries.java (master) is already installed, skipping.
+2017-10-23 14:53:27,914 p=26173 u=ccone |  - OULibraries.mariadb (v2016-09-26.0) is already installed, skipping.
+2017-10-23 14:53:27,915 p=26173 u=ccone |  - OULibraries.nginx (v2017-07-19.0) is already installed, skipping.
+2017-10-23 14:53:27,916 p=26173 u=ccone |  - OULibraries.ojs (master) is already installed, skipping.
+2017-10-23 14:53:27,916 p=26173 u=ccone |  - OULibraries.postfix-mta (v2017-04-17.1) is already installed, skipping.
+2017-10-23 14:53:27,917 p=26173 u=ccone |  - OULibraries.repox (v2016-10-17.1) is already installed, skipping.
+2017-10-23 14:53:27,918 p=26173 u=ccone |  - OULibraries.sclphp (master) is already installed, skipping.
+2017-10-23 14:53:27,918 p=26173 u=ccone |  - OULibraries.searchgateway (master) is already installed, skipping.
+2017-10-23 14:53:27,919 p=26173 u=ccone |  - geerlingguy.solr (3.6.2) is already installed, skipping.
+2017-10-23 14:53:27,920 p=26173 u=ccone |  - OULibraries.solr-onesearch (master) is already installed, skipping.
+2017-10-23 14:53:27,921 p=26173 u=ccone |  - OULibraries.searchgateway (master) is already installed, skipping.
+2017-10-23 14:53:27,921 p=26173 u=ccone |  - OULibraries.sendmail (v2016-07-12.0) is already installed, skipping.
+2017-10-23 14:53:27,922 p=26173 u=ccone |  - OULibraries.tls-cert (v2017-07-25.0) is already installed, skipping.
+2017-10-23 14:53:27,923 p=26173 u=ccone |  - OULibraries.users (v2017-05-09.0) is already installed, skipping.
+2017-10-23 14:53:27,923 p=26173 u=ccone |  - OULibraries.zabbix (master) is already installed, skipping.
+2017-10-23 14:53:27,924 p=26173 u=ccone |  - OULibraries.zabbix-agent (master) is already installed, skipping.
+2017-10-23 14:53:27,925 p=26173 u=ccone |  - OULibraries.zabbix-proxy (master) is already installed, skipping.
+2017-10-23 14:53:27,926 p=26173 u=ccone |  - OULibraries.syslogng (master) is already installed, skipping.
+2017-10-23 14:53:27,927 p=26173 u=ccone |  - OULibraries.syslogng-client (master) is already installed, skipping.
+2017-10-23 14:53:27,928 p=26173 u=ccone |  - OULibraries.elk (master) is already installed, skipping.
+2017-10-23 14:53:39,549 p=26173 u=ccone |   [ERROR]: User interrupted execution
+

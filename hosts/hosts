@@ -1,0 +1,14 @@
+ansible.vagrant.local ansible_connection=local
+localhost ansible_connection=local
+
+[ignore]
+ansible.vagrant.local
+localhost
+s3-gateway.prod.ltp.ec2.internal
+lib-1.tmp.nor.external
+lib-1.tmp.nor.internal
+broker.prod.ltp.ec2.external
+broker.prod.nor.internal
+
+[repo]
+dspace6.test.repo.ec2.internal
