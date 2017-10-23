@@ -47,12 +47,12 @@ git config --global diff.ansible-vault.textconv "ansible-vault view"
 pip install --user --upgrade setuptools
 pip install --user --upgrade pip
 pip install --user -r requirements.txt
-
+```
 # Touch ansible logfile                            
 ```                                                
 mkdir -p log && touch log/ansible.log              
 ```                                                
-* Install Ansible roles                            
+# Install Ansible roles                            
 ```                                                
 ansible-galaxy install -r requirements.yml --force 
 ```
