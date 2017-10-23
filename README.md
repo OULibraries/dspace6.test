@@ -55,7 +55,7 @@ mkdir -p log && touch log/ansible.log
 * Install Ansible roles                            
 ```                                                
 ansible-galaxy install -r requirements.yml --force 
-
+```
 # To run your playbook against your dspace6.test server                            
 ```                                                
 ansible-playbook /playbooks/dspace6.yml --limit dspace6.test.sok.ec2.internal
